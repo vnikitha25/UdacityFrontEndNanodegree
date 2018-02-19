@@ -1,0 +1,17 @@
+/* add your CSS here */
+div{		
+border: solid;
+border-color: #ddd;	
+}
+ul
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+span{
+    
+}
+img{
+    padding: 10px 50px 20px;
+}
