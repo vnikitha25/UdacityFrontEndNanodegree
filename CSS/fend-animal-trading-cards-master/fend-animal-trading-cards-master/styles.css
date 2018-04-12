@@ -1,17 +1,26 @@
 /* add your CSS here */
-div{		
-border: solid;
-border-color: #ddd;	
-}
-ul
-{
-    list-style-type:none;
-    padding:0px;
-    margin:0px;
-}
-span{
-    
+.page{
+    margin: auto;
+    border: 1px solid #C1C1C1FF;
+    width: 330px;
+    padding: 10px;
+    box-shadow: 8px 6px 4px 0px rgba(214,214,214,1);
 }
 img{
-    padding: 10px 50px 20px;
+	padding: 0px 5px 5px 12px;
+    margin: auto;
+    width: 300px;
+}
+.description{
+	border: 1px solid #C1C1C1FF;
+	width: 300px;
+	margin: auto;
+	padding: 0px 5px 5px 7px;
+}
+.elements {
+	list-style: none;
+  padding-left: 0px;
+}
+.list{
+	font-weight: bold;
 }
